@@ -16,8 +16,8 @@ body{
 }
 #cabecera #tagline{
     padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: .08em;
+    font-weight: bold;
+    font-size: 0.8em;
 }
 #container{
     width: 70%;
